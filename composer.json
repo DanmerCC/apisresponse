@@ -25,5 +25,9 @@
         "psr-4": {
             "Danmercc\\Apis\\Tests\\": "tests"
         }
+    },
+    "support": {
+        "issues": "https://github.com/DanmerCC/apisresponse/issues",
+        "source": "https://github.com/DanmerCC/apisresponse"
     }
 }

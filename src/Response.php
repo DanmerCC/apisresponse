@@ -1,7 +1,7 @@
 <?php
 namespace Danmercc\Apis;
 
-class ResponseUtil
+class Response
 {
     /**
      * @param string $message
